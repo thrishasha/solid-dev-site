@@ -1,0 +1,66 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 2990 >>
+stream
+BT
+/F2 22 Tf 1 0 0 1 54 780 Tm (Arjun Verma) Tj
+/F1 12 Tf 1 0 0 1 54 754 Tm (Software Developer - Backend & Full-Stack) Tj
+/F1 9 Tf 1 0 0 1 54 736 Tm (arjun.verma.dev@example.com  |  +91 98000 00000  |  Pune, India  |  github.com/  |  linkedin.com/) Tj
+/F2 11 Tf 1 0 0 1 54 717 Tm (SUMMARY) Tj
+/F1 9 Tf 1 0 0 1 54 697 Tm (Software developer with 4+ years building production backends and full-stack applications for) Tj
+/F1 9 Tf 1 0 0 1 54 684 Tm (healthcare \(LIMS\) and B2B SaaS: REST/GraphQL APIs, MySQL/PostgreSQL data modelling, RabbitMQ) Tj
+/F1 9 Tf 1 0 0 1 54 671 Tm (event-driven integration, authentication/authorization and React front-ends.) Tj
+/F2 11 Tf 1 0 0 1 54 652 Tm (EXPERIENCE) Tj
+/F2 10 Tf 1 0 0 1 54 632 Tm (Medlytic Systems - Software Developer, Backend \(2023 - Present\)) Tj
+/F1 9 Tf 1 0 0 1 54 617 Tm (- Own the sample lifecycle domain of a multi-tenant LIMS: intake, worklists, results, report release.) Tj
+/F1 9 Tf 1 0 0 1 54 604 Tm (- Reduced result turnaround 41% by moving report generation to queued workers.) Tj
+/F1 9 Tf 1 0 0 1 54 591 Tm (- Cut reconciliation reporting from 8.4s to 320ms with composite indexes and rollup tables.) Tj
+/F1 9 Tf 1 0 0 1 54 578 Tm (- Lowered analyzer ingestion failures from ~3%/day to <0.2% via idempotency keys and DLQ replay.) Tj
+/F1 9 Tf 1 0 0 1 54 565 Tm (  Stack: Laravel, PHP 8.3, MySQL 8, RabbitMQ, Redis, React, Docker, GitHub Actions.) Tj
+/F2 10 Tf 1 0 0 1 54 552 Tm (Northbridge SaaS Labs - Full-Stack Developer \(2022 - 2023\)) Tj
+/F1 9 Tf 1 0 0 1 54 537 Tm (- Built subscription state machine, proration and dunning with replay-safe Stripe webhook handling.) Tj
+/F1 9 Tf 1 0 0 1 54 524 Tm (- Consolidated 30+ dashboard requests into 3 via a GraphQL gateway with DataLoader batching.) Tj
+/F1 9 Tf 1 0 0 1 54 511 Tm (- Raised failed-payment recovery from 38% to 61%.) Tj
+/F1 9 Tf 1 0 0 1 54 498 Tm (  Stack: Node.js, TypeScript, PostgreSQL, GraphQL, Redis, React, Stripe.) Tj
+/F2 10 Tf 1 0 0 1 54 485 Tm (Cobalt Software Services - Junior Developer \(2021 - 2022\)) Tj
+/F1 9 Tf 1 0 0 1 54 470 Tm (- Delivered Laravel/MySQL client modules, admin panels and report exports with PHPUnit coverage.) Tj
+/F2 11 Tf 1 0 0 1 54 451 Tm (SKILLS) Tj
+/F1 9 Tf 1 0 0 1 54 431 Tm (Languages: PHP, TypeScript, JavaScript, SQL, Python, Bash) Tj
+/F1 9 Tf 1 0 0 1 54 418 Tm (Backend: Laravel, Node.js, Express, REST, queues/workers   Frontend: React, TanStack, Tailwind CSS) Tj
+/F1 9 Tf 1 0 0 1 54 405 Tm (Databases: MySQL, PostgreSQL, Redis, migrations, query tuning   APIs: GraphQL, OpenAPI, OAuth2/JWT, HL7) Tj
+/F1 9 Tf 1 0 0 1 54 392 Tm (DevOps: Docker, GitHub Actions, Nginx, Grafana, Sentry   Testing: PHPUnit, Pest, Vitest, Playwright, k6) Tj
+/F2 11 Tf 1 0 0 1 54 373 Tm (EDUCATION & CERTIFICATIONS) Tj
+/F1 9 Tf 1 0 0 1 54 353 Tm (B.E. Computer Engineering, Savitribai Phule Pune University, 2021) Tj
+/F1 9 Tf 1 0 0 1 54 340 Tm (AWS Certified Developer - Associate \(2024\) | Oracle MySQL 8.0 Database Developer \(2023\)) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000003293 00000 n 
+0000003363 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3438
+%%EOF
