@@ -39,7 +39,7 @@ export const Route = createFileRoute("/")({
           hasCredential: certifications.map((c) => ({
             "@type": "EducationalOccupationalCredential",
             name: c.name,
-917: 
+            credentialCategory: c.issuer,
           })),
           sameAs: [profile.social.github, profile.social.linkedin],
         }),
