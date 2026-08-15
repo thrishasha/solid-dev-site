@@ -82,13 +82,19 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "Portfolio of Arjun Verma, a software developer building production APIs, databases and full-stack applications.",
+          "Arjun Verma — software developer building production backends: Laravel/Node REST & GraphQL APIs, MySQL/PostgreSQL data models, RabbitMQ integrations and React front-ends for SaaS and healthcare (LIMS) platforms.",
       },
       { name: "author", content: "Arjun Verma" },
       { name: "theme-color", content: "#1b1f27" },
       { property: "og:site_name", content: "Arjun Verma — Software Developer" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { property: "og:title", content: "Arjun Verma — Backend & Full-Stack Software Developer" },
+      { name: "twitter:title", content: "Arjun Verma — Backend & Full-Stack Software Developer" },
+      { property: "og:description", content: "Arjun Verma — software developer building production backends: Laravel/Node REST & GraphQL APIs, MySQL/PostgreSQL data models, RabbitMQ integrations and React front-ends for SaaS and healthcare (LIMS) platforms." },
+      { name: "twitter:description", content: "Arjun Verma — software developer building production backends: Laravel/Node REST & GraphQL APIs, MySQL/PostgreSQL data models, RabbitMQ integrations and React front-ends for SaaS and healthcare (LIMS) platforms." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c2e924ed1315f75e6d03f187a2d31c9e/id-preview-58d8e177--321228e1-75ba-43eb-8081-e99e18b679ee.lovable.app-1786796002162.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c2e924ed1315f75e6d03f187a2d31c9e/id-preview-58d8e177--321228e1-75ba-43eb-8081-e99e18b679ee.lovable.app-1786796002162.png" },
     ],
     links: [
       {
